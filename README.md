@@ -1,2 +1,3 @@
 # TA_final_project
-Final project draft
+
+## Each student finish one of the section in the jupyter notebook.
